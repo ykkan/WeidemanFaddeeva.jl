@@ -1,0 +1,10 @@
+name = "WeidemanFaddeeva"
+uuid = "62d089ee-e2a2-4d9d-b67b-70a955646340"
+version = "0.1.0"
+authors = ["Yi-Kai Kan <tw.ykkan@gmail.com>"]
+
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+
+[compat]
+FFTW = "1.10.0"
